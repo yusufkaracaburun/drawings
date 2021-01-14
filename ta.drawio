@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T10:05:19.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="shBxY8QrGoc29PJdk8t9" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T10:10:35.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QkrVUe7cBhray36_EjnB" version="14.2.2" type="github">
   <diagram id="8tTxIPcfSnXsYFQpMSlw" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,10 @@
         <mxCell id="OmSEWwTg2d_qXSSiuepV-25" value="Assertions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="462" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OmSEWwTg2d_qXSSiuepV-26" value="casesAS&lt;br&gt;zakelijkRechtAS" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OmSEWwTg2d_qXSSiuepV-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OmSEWwTg2d_qXSSiuepV-26" target="OmSEWwTg2d_qXSSiuepV-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OmSEWwTg2d_qXSSiuepV-26" value="casesAS&lt;br style=&quot;font-size: 10px;&quot;&gt;zakelijkRechtAS" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-785" y="437" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmSEWwTg2d_qXSSiuepV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OmSEWwTg2d_qXSSiuepV-28" target="OmSEWwTg2d_qXSSiuepV-29">
@@ -104,7 +107,7 @@
         <mxCell id="OmSEWwTg2d_qXSSiuepV-28" value="Test Cases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="361" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OmSEWwTg2d_qXSSiuepV-29" value="kaartlagen&lt;br&gt;tekeningMaken&lt;br&gt;importerenTekening" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OmSEWwTg2d_qXSSiuepV-29" value="kaartlagen&lt;br style=&quot;font-size: 10px;&quot;&gt;tekeningMaken&lt;br style=&quot;font-size: 10px;&quot;&gt;importerenTekening" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-785" y="336" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmSEWwTg2d_qXSSiuepV-30" value="Test Cases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -155,11 +158,14 @@
         <mxCell id="OmSEWwTg2d_qXSSiuepV-45" value="00_lirabries.robot" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="27" y="533" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OmSEWwTg2d_qXSSiuepV-47" value="00_all_po.robot" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="OmSEWwTg2d_qXSSiuepV-47" value="00_all_po.robot&lt;br&gt;01_general.robot" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="27" y="427" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OmSEWwTg2d_qXSSiuepV-49" value="00_all_bo.robot" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="27" y="321" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OmSEWwTg2d_qXSSiuepV-51" value="00_all_as.robot" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-965" y="427" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
